@@ -27,8 +27,8 @@ body{
 }
 .title{
     position: absolute;
-    top: 50px;        /* المسافة من الأعلى */
-    left: 50%;
+    top: 40px;        /* المسافة من الأعلى */
+    left: 40%;
     transform: translateX(-50%);
     color: white;
     font-size: 30px;
