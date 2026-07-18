@@ -25,3 +25,13 @@ body{
     color:transparent;        /* يخفي الكتابة */
     cursor:pointer;
 }
+.title{
+    position: absolute;
+    top: 50px;        /* المسافة من الأعلى */
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 0 0 10px black;
+}
